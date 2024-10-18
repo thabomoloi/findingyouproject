@@ -57,3 +57,7 @@ group :test do
   gem "capybara"
   gem "selenium-webdriver"
 end
+
+gem "view_component", "~> 3.18"
+gem "devise", "~> 4.9"
+gem "name_of_person", "~> 1.1"
